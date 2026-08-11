@@ -41,6 +41,36 @@
 			<string>com.whitetailani.serenatime.prefs</string>
 		</dict>
 		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.whitetailani.serenatime.prefs</string>
+			<key>key</key>
+			<string>thirdEnabled</string>
+			<key>label</key>
+			<string>Third time zone</string>
+			<key>PostNotification</key>
+			<string>com.whitetailani.serenatime.prefs</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>placeholder</key>
+			<string>America/New_York</string>
+			<key>defaults</key>
+			<string>com.whitetailani.serenatime.prefs</string>
+			<key>key</key>
+			<string>thirdTimeZoneID</string>
+			<key>label</key>
+			<string>Third time zone ID</string>
+			<key>noAutoCorrect</key>
+			<true/>
+			<key>PostNotification</key>
+			<string>com.whitetailani.serenatime.prefs</string>
+		</dict>
+		<dict>
 			<key>label</key>
 			<string>Apply Changes</string>
 			<key>action</key>
