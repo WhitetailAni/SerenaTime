@@ -1,8 +1,8 @@
 Package: com.whitetailani.serenatime
 Name: SerenaTime
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
-Description: Two timezones in your status bar!
+Description: 2-3 timezones in your status bar!
 Maintainer: WhitetailAni
 Author: WhitetailAni
 Section: Tweaks
